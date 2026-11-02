@@ -1,0 +1,6 @@
+SQLAlchemy==2.0.52
+fastapi==0.141.1
+fastapi[standard]
+uvicorn
+pandas
+borb
